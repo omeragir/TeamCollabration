@@ -3,10 +3,10 @@ package utils;
 public class MAinUtils {
 
 
-public void coolMethod(){
+public static void coolMethod(){
 
 }
-public void otherCoolMethod(){
+public static void otherCoolMethod(){
 
 }
 
