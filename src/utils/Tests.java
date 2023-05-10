@@ -7,4 +7,7 @@ public class Tests {
 
     //working tc123
     //...
+    public static void main(String[] args) {
+        MAinUtils.coolMethod();
+    }
 }
